@@ -1,5 +1,6 @@
 #Project specific
 UnitTest++.vsnet2010.sdf
+UnitTest++.vsnet2010.opensdf
 UnitTest++.opensdf
 
 #ignore thumbnails created by windows
